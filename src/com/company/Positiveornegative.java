@@ -16,6 +16,7 @@ public class Positiveornegative {
         }
         else {
             System.out.println("neutral");
+            System.out.println("Vivek Changes");
         }
 
     }
