@@ -1,6 +1,6 @@
 package com.company;
 
-public class gi {
+public class ThePlan {
 
 
     public static void main(String[] variables) {
@@ -8,6 +8,7 @@ public class gi {
         };
          for (int i = 0; i < days.length; i++)
             System.out.println(days[i]);
+        System.out.println("These are new changes");
 
     }
 }
